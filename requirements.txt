@@ -1,0 +1,23 @@
+# Core dependencies
+#python>=3.8
+
+# PDF and Image Processing
+pdf2image>=1.16.3
+Pillow>=9.5.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# OCR
+paddleocr>=2.7.0
+paddlepaddle>=2.5.0
+
+# Vision API
+anthropic>=0.18.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Optional: For enhanced functionality
+# torch>=2.0.0  # If using custom models
+# transformers>=4.30.0  # For VLM models
+# ultralytics>=8.0.0  # For YOLO-based detection

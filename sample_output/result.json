@@ -1,0 +1,62 @@
+[
+  {
+    "doc_id": "invoice_001",
+    "fields": {
+      "dealer_name": "ABC Tractors Pvt Ltd",
+      "model_name": "Mahindra 575 DI",
+      "horse_power": 50,
+      "asset_cost": 525000,
+      "signature": {
+        "present": true,
+        "bbox": [1205, 1832, 1456, 1978]
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [1150, 1650, 1350, 1850]
+      }
+    },
+    "confidence": 0.96,
+    "processing_time_sec": 3.8,
+    "cost_estimate_usd": 0.003
+  },
+  {
+    "doc_id": "invoice_002",
+    "fields": {
+      "dealer_name": "Shree Krishna Auto",
+      "model_name": "John Deere 5050D",
+      "horse_power": 55,
+      "asset_cost": 678000,
+      "signature": {
+        "present": true,
+        "bbox": [980, 1720, 1180, 1850]
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [920, 1580, 1100, 1760]
+      }
+    },
+    "confidence": 0.94,
+    "processing_time_sec": 4.1,
+    "cost_estimate_usd": 0.003
+  },
+  {
+    "doc_id": "invoice_003",
+    "fields": {
+      "dealer_name": "TAFE Motors",
+      "model_name": "Massey Ferguson 7250",
+      "horse_power": 75,
+      "asset_cost": 892000,
+      "signature": {
+        "present": true,
+        "bbox": [1100, 1900, 1300, 2020]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": [0, 0, 0, 0]
+      }
+    },
+    "confidence": 0.89,
+    "processing_time_sec": 3.5,
+    "cost_estimate_usd": 0.003
+  }
+]
