@@ -1,4 +1,4 @@
-# Invoice Field Extraction System
+# Invoice Field Extraction System (Prototype / Untested)
 ## IDFC GenAI Hackathon - Convolve 4.0
 
 ### Team Information
